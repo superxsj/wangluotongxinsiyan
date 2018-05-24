@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/internetpaintclient.iml" filepath="$PROJECT_DIR$/internetpaintclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../internetpaintserer/internetpaintserer.iml" filepath="$PROJECT_DIR$/../internetpaintserer/internetpaintserer.iml" />
+    </modules>
+  </component>
+</project>
